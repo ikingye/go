@@ -42,3 +42,6 @@ VERSION.cache
 
 bin/
 pkg/
+
+.idea/
+.vscode/
