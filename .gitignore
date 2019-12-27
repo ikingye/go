@@ -52,3 +52,6 @@ VERSION.cache
 bin/
 pkg/
 .idea/
+*.srctrlbm
+*.srctrldb
+*.srctrlprj
